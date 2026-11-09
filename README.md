@@ -2,7 +2,7 @@
 
 检索 IRMCT Unified Court Records（UCR）公开 recent-filings 元数据。只访问 `ucr.irmct.org`。
 
-仓库：<https://github.com/HuiwowICCSkills/UCRSearcher>（私有）。
+仓库：<https://github.com/HuiwowICCSkills/UCRSearcher>（公开）。
 
 ## 1. 环境
 

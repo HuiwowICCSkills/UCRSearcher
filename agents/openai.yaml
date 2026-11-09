@@ -1,0 +1,4 @@
+interface:
+  display_name: "IRMCT UCR 公开新近文件检索"
+  short_description: "检索 UCR 公开 recent-filings 元数据"
+  default_prompt: "使用 $UCRSearcher 检索 UCR 公开 recent-filings；明确说明这不是完整 UCR 检索，完整检索需要登录账号。"

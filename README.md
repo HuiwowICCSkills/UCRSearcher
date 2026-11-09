@@ -2,7 +2,7 @@
 
 检索 IRMCT Unified Court Records（UCR）公开 recent-filings 元数据。只访问 `ucr.irmct.org`。
 
-仓库：<https://github.com/GDUFSICCSkills/UCRSearcher>（私有）。
+仓库：<https://github.com/HuiwowICCSkills/UCRSearcher>（私有）。
 
 ## 1. 环境
 
@@ -11,7 +11,7 @@ Python 3.10+，依赖 `requests`；无需浏览器或登录。
 ## 2. 安装
 
 ```powershell
-git clone https://github.com/GDUFSICCSkills/UCRSearcher.git "$env:USERPROFILE\.codex\skills\UCRSearcher"
+git clone https://github.com/HuiwowICCSkills/UCRSearcher.git "$env:USERPROFILE\.codex\skills\UCRSearcher"
 python -m pip install -r "$env:USERPROFILE\.codex\skills\UCRSearcher\requirements.txt"
 ```
 
